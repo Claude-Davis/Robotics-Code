@@ -8,3 +8,6 @@ a = 17
 b = " years"
 c = " old"
 print(str(a)) + b + c
+
+code_lang = "Python"
+print(code_lang)
