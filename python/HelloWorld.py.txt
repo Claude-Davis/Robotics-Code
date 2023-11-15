@@ -1,0 +1,10 @@
+print("Hello World")
+print(type("Hello World"))
+
+name = "Claude Davis"
+print(name)
+
+a = 17
+b = " years"
+c = " old"
+print(str(a)) + b + c
