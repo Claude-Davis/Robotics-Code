@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  string message = "Using message of type string.";
+  cout << message << endl;
+  int ChildAgeMonths = 5;
+  cout << ChildAgeMonths << endl;
+  double DogAge = 5.5d;
+  cout << DogAge << endl;
+  float numbers = 78.905f;
+  cout << numbers;
+}
