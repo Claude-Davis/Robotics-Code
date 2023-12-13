@@ -1,0 +1,25 @@
+Single-line comments in C++ are indicated with two forward slashes (//).     -- (Line 6)
+  #include <iostream>
+  using namespace std;
+  
+  int main() {
+    //This is just a demo program that outputs a name
+  
+    string name  = "James";
+    cout << name;
+  }
+
+
+
+Multi-line comments use forward slashes and asterisks (/* */)    -- (Lines 9 to 11)
+  #include <iostream>
+  using namespace std;
+  
+  int main() {
+    /*  This is just a
+    demo program
+    that outputs a name */
+  
+    string name  = "James";
+    cout << name;
+  }
