@@ -1,4 +1,3 @@
-# take a number as input
 number = 50
 
 #use a 'while loop' for the countdown
