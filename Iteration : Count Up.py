@@ -1,4 +1,3 @@
-# take a number as input
 number = 25
 x = 0
 
