@@ -16,6 +16,6 @@ class Evidence {
 
 int main() 
 {
-    Evidence test;
-    test.financial();
+    Evidence evd;
+    evd.financial();
 }
