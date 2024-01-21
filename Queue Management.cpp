@@ -37,8 +37,8 @@ class Queue {
 			cout << "Queue is full"<<endl;
 			return;
 		}
-		queue[size] = item;
-		size++;
+		queue[size] = item; //Assigns the value of the 'item' parameter to the next available position in the queue.
+		size++;  //The size of the queue is increased by 1.
 	}
 }; 
 
