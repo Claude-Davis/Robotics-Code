@@ -62,7 +62,7 @@ class Robot {
                     return true;
                 }
             }
-            cout << "Unknown Color" << endl;
+            cout << "Unknown Color" << endl; 
             return false;
         }
 };
